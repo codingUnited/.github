@@ -1,11 +1,16 @@
-# .github
-Coding United is a student-led tech club at SNHU dedicated to building real-world projects, supporting academic success, and growing together through hands-on coding, curiosity, and collaboration.
+# About the .github Repository for Coding United Club
 
-# 👾 Coding United Club @ SNHU
+This repository hosts community health files for the Coding United Club organization, such as our `CODE_OF_CONDUCT.md` and `CONTRIBUTING.md`. This README file provides more in-depth information about our club's focus, vision, initiatives, and board.
+
+For a general overview and quick links, please see our main [Coding United Club GitHub Profile](https://github.com/codingUnited) or our [Club Hub](https://github.com/codingUnited/coding-united-hub).
+
+---
+
+## 👾 Coding United Club @ SNHU
 
 > *We are not here to fit in. We are here to build, to learn, and to become.*
 
-Welcome to the official GitHub organization of **Coding United**, a student-led club at Southern New Hampshire University (SNHU). We’re a community of developers, data nerds, tinkerers, and tech dreamers—united by a shared mission:
+Welcome to **Coding United**, a student-led tech club at Southern New Hampshire University (SNHU). We’re a community of developers, data nerds, tinkerers, and tech dreamers—united by a shared mission:
 
 🎯 **To face complexity head-on, forge meaning from chaos, and hold each other to the path of growth.**
 
@@ -59,17 +64,14 @@ Position Coding United as the place where coders aren’t just trained — they�
 
 ## 🧩 Ongoing Initiatives
 
-- **🕹️ GitHub Projects**:  
-  Club Website, Game Dev, Course Planner, Cybersecurity Tools, AI Models, Dashboards, and more.
-  
-- **📚 Book Club**:  
-  Currently reading *The Object-Oriented Thought Process (5th ed.)*
-
-- **📊 Ranked Coding Challenges** _(in development)_  
-  A friendly leaderboard for weekly/term-long code problems.
-
-- **🛠️ Non-Coding Presentations & Workshops**  
-  Exploring DevOps, QA, Git, Jira, Docker, AppSec, and more — led by club members or guest speakers.
+- **🕹️ GitHub Projects**:
+    - Club Website, Game Dev, Course Planner, Cybersecurity Tools, AI Models, Dashboards, and more. *(Consider linking to specific project repos or a project board if available)*
+- **📚 Book Club**:
+    - Currently reading: *The Object-Oriented Thought Process (5th ed.)*
+- **📊 Ranked Coding Challenges** *(in development)*:
+    - A friendly leaderboard for weekly/term-long code problems.
+- **🛠️ Non-Coding Presentations & Workshops**:
+    - Exploring DevOps, QA, Git, Jira, Docker, AppSec, and more — led by club members or guest speakers.
 
 ---
 
@@ -77,23 +79,22 @@ Position Coding United as the place where coders aren’t just trained — they�
 
 Every term, our board sets intentions, supports new initiatives, and welcomes collaboration.
 
-- **Samantha Schutte** – President  
-  *"My goal is to... [insert quote or mission]"*
-- **Jose De Lima** – Engagement Officer  
-  *"My goal is to... [insert quote of mission]"*
-- **Kailey Northam** – Secretary & Project Manager  
-  *"My focus is on building clear documentation, project scopes, and a sustainable dev process for all members."*
+- **Samantha Schutte** – President
+  > "My goal is to foster an inclusive environment where every member feels empowered to learn, contribute, and grow their technical skills."
+- **Jose De Lima** – Engagement Officer
+  > "My goal is to connect members with exciting projects and opportunities, ensuring everyone finds their niche and passion within the club."
+- **Kailey Northam** – Secretary & Project Manager
+  > "My focus is on building clear documentation, project scopes, and a sustainable dev process for all members."
 
-_(Add additional board members if applicable.)_
 
 ---
 
 ## 📬 Get Involved
 
 We invite you to:
-- Join a project team or propose your own
-- Attend at least one meeting, workshop, or event per month (working on GitHub projects counts!)
-- Share your skills, ideas, and curiosity
+- Join a project team or propose your own.
+- Attend at least one meeting, workshop, or event per month (working on GitHub projects counts!).
+- Share your skills, ideas, and curiosity.
 
 Whether you're a first-time coder or a seasoned builder — there's a place for you here.
 
