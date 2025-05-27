@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="need to add path from gh to here" alt="Coding United Club Logo" width="1000"/>
+  <img src="/profile/github-header-image(2).png" alt="Coding United Club Logo" width="1000"/>
 </div>
 
 We're not just learning to code — we're building something bigger.
