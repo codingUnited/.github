@@ -41,7 +41,6 @@ There are many ways to contribute to Coding United:
 * **Improve Our Tools:** Our templates and website source code are on GitHub – feel free to suggest improvements or open a Pull Request.
     * [Python Template Contributions](https://github.com/codingUnited/python-template#contributing)
     * [Docker Template Contributions](https://github.com/codingUnited/docker-template#contributing)
-    * [Website Source Code](https://github.com/codingUnited/coding-united-commons-source)
 * **Help Others:** Be active on Discord and support fellow members.
 
 You can also explore the `CONTRIBUTING.md` file in this `.github` repository for general guidelines.
