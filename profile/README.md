@@ -22,7 +22,7 @@ Ready to dive in? Here’s how you can get involved and find what you need:
 
 * 🌟 **[Club Hub & New Member Guide](https://github.com/codingUnited/coding-united-hub)**: Your first stop! Find all club info, how to join, and links to everything.
 * 💻 **[Visit Our Official Website](https://coding-united-commons.pages.dev/)**: See our public face and general announcements.
-* 🗣️ **[Join Our Discord Community](https://discord.gg/n8xYkS46MG)**: Connect with members, ask questions, and stay updated.
+* 🗣️ **[Join Our Discord Community](https://discord.gg/pmVAmm2P9Q)**: Connect with members, ask questions, and stay updated.
 
 ### For Your Projects & Learning:
 * 🐍 **[Python Project Template](https://github.com/codingUnited/python-template)**: Kickstart your Python projects with PyCharm & venv setup.
