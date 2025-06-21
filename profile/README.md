@@ -32,6 +32,18 @@ Ready to dive in? Here’s how you can get involved and find what you need:
 
 ---
 
+## 📚 Learing Resources
+* 💻 Start your coding journey - All links are to oreilly courses free if you create an account with SNHU.
+  *  Python - The easiest language to start with. This is your intro to programming at SNHU. If you’ve never written code before, start here. [LINK](https://learning.oreilly.com/course/python-fundamentals-with/9780135917411/)
+  *  Java - Big companies use this every day. It runs a lot of the internet and Android apps. You’ll take this as your second programming class at SNHU. [LINK](https://learning.oreilly.com/course/learn-java-from/9781838556976/)
+  *  C++ - Used for building things like robots, fast programs, and even video games with high-end graphics. Your third language class at SNHU. [LINK](https://learning.oreilly.com/course/programming-c/9781926873411/)
+  *  HTML/CSS - This is how websites are made. HTML builds the page, CSS makes it look good. If you’ve ever visited a website (you have), it was made with these. [LINK](https://learning.oreilly.com/videos/-/9781835082447/)
+  *  Javascript - This makes websites do stuff. Buttons, animations, forms, games—if it moves or reacts, this is the magic behind it.  [LINK](https://learning.oreilly.com/videos/-/9781788838139/)
+  *  C# - A lot like Java, but used mostly in video games made with Unity. If you’re into game development, this is your jam. [LINK](https://learning.oreilly.com/course/learning-path-c/9780134667591/)
+  *  Scratch - Drag-and-drop coding made for beginners. No typing, just learning how code thinks. Even top schools like Harvard and MIT use it to teach. [LINK](https://scratch.mit.edu/projects/1191075909/editor)
+  *  SQL -  Every app or website needs to store stuff—users, scores, posts, whatever. SQL is the language that talks to the database. [LINK](https://learning.oreilly.com/course/mysql-5/9781926873961/)
+  *  Git/GitHub - This is how coders save their work and share it with others. Like Google Docs, but for code—with a time machine. [LINK](https://learning.oreilly.com/course/complete-git-guide/9781800209855/)
+
 ## 🌱 Want to Contribute or Get Involved?
 
 There are many ways to contribute to Coding United:
@@ -43,7 +55,7 @@ There are many ways to contribute to Coding United:
     * [Docker Template Contributions](https://github.com/codingUnited/docker-template#contributing)
 * **Help Others:** Be active on Discord and support fellow members.
 
-You can also explore the `CONTRIBUTING.md` file in this `.github` repository for general guidelines.
+You can also explore the [`CONTRIBUTING.md`](https://github.com/codingUnited/.github/blob/main/CONTRIBUTING.md) file in this [`.github`](https://github.com/codingUnited/.github/tree/main) repository for general guidelines.
 
 ---
 
