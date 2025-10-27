@@ -28,7 +28,7 @@ Our mission is to make technical education practical, team-driven, and career-re
 ## Core Development Tracks
 
 
-### AI / Machine Learning Track
+### 🧠 AI / Machine Learning Track
 
 **Goal**: Build intelligence into software and systems.
 **Focus Areas**:
@@ -38,7 +38,7 @@ Our mission is to make technical education practical, team-driven, and career-re
 - Tools: scikit-learn · PyTorch · TensorFlow · OpenAI API
   **Example Project**: AI Chatbot
 
-### Robotics / Embedded & IoT Track
+### ⚙️ Robotics / Embedded & IoT Track
 
 **Goal**: Bridge software with real hardware.
 **Focus Areas**:
@@ -48,7 +48,7 @@ Our mission is to make technical education practical, team-driven, and career-re
 - IoT communication (HTTP, MQTT, WebSocket)
   **Example Project**: Physical Roku Remote (ESP32 Wi-Fi Control)
 
-### Full-Stack / Software Engineering Track
+### 💻 Full-Stack / Software Engineering Track
 
 **Goal**: Build full production-grade applications from front to back.
 **Focus Areas**:
