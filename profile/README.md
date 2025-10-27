@@ -2,7 +2,7 @@
 
 <br>
 
-**We're not just learning to code — we're building something bigger.**
+**We're not just learning to code, we're building something bigger.**
 
 <br>
 
@@ -12,7 +12,7 @@
 - Explore tools, ideas, and emerging technologies
 - Support one another in class, code, and community
 
-Whether you’re interested in AI, embedded systems, full-stack apps, or just getting started — there’s a place for you here.
+Whether you’re interested in AI, embedded systems, full-stack apps, or just getting started, there’s a place for you here.
 
 **Learn. Create. Evolve. Together.**
 
@@ -21,7 +21,7 @@ Whether you’re interested in AI, embedded systems, full-stack apps, or just ge
 ## Club Mission
 
 Coding United exists to help students grow from learners into engineers through hands-on collaboration and cross-disciplinary learning.
-Our mission is to make technical education practical, team-driven, and career-ready — by turning concepts into working projects and connecting classroom knowledge to real industry workflows.
+Our mission is to make technical education practical, team-driven, and career-ready, by turning concepts into working projects and connecting classroom knowledge to real industry workflows.
 
 ---
 
@@ -71,15 +71,15 @@ Members learn by:
 
 Each project is designed to be:
 
-- Educational — reinforces real CS concepts
-- Practical — built with modern industry tools
-- Collaborative — open to contributors of all skill levels
+- **Educational**: reinforces real CS concepts
+- **Practical**: built with modern industry tools
+- **Collaborative**: open to contributors of all skill levels
 
 ---
 
 ## Developer Paths
 
-Choose your path — each roadmap shows what skills to master next:
+**Choose your path**: each roadmap shows what skills to master next:
 
 - [AI / ML Developer](https://chatgpt.com/g/g-p-68a4ca08df088191b9d446e5429c57a1-todo-self-learning-path/c/Job-Road-Maps/AI_ML_Developer.md) – Build intelligent systems and predictive models.
 - [Embedded Engineer](https://chatgpt.com/g/g-p-68a4ca08df088191b9d446e5429c57a1-todo-self-learning-path/c/Job-Road-Maps/Embedded_Engineer.md) – Program low-level systems and IoT hardware.
@@ -100,7 +100,7 @@ Choose your path — each roadmap shows what skills to master next:
 
 ---
 
-We’re excited to have you on the team — let’s build something great together.
+We’re excited to have you on the team, let’s build something great together.
 
 **Coding United Club**
 “Learn. Create. Evolve. Together.”
