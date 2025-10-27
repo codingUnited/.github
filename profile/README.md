@@ -93,7 +93,7 @@ Choose your path — each roadmap shows what skills to master next:
 ## Get Involved
 
 - 💬 Join Our Discord: [discord.gg/YyntRSs8JA](https://discord.com/invite/YyntRSs8JA)
-- 🌐 Visit Our Website: https://coding-united-commons.pages.dev
+- 🌐 Visit Our Website: https://codingunited.club
 - 🗂️ Club Hub: https://github.com/codingUnited/coding-united-hub
 - 🧠 Contribute: Help on open issues or propose your own idea in the hub repository.
 - 🧰 Templates & Resources: Browse our project templates and learning materials in the org repositories.
