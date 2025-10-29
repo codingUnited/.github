@@ -82,6 +82,7 @@ Our mission is to make technical education practical, team-driven, and career-re
      - Emphasized inserting components firmly to ensure good electrical contact.
      - Demonstrated placement of the ESP32 chip straddling the center gap on the breadboard.
      - Wires and buttons were connected to GPIO pins D13, D14, D26, D25, and D23.
+     - Supply Purchase: [LINK](https://www.amazon.com/dp/B0BVZBTP8V?ref=ppx_yo2ov_dt_b_fed_asin_title)
    <br>
    
    **5. ESP32 Power and Connectivity**
