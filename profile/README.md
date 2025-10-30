@@ -151,13 +151,16 @@ Each project is designed to be:
 
 **Choose your path**: each roadmap shows what skills to master next:
 
-- [AI / ML Developer](https://chatgpt.com/g/g-p-68a4ca08df088191b9d446e5429c57a1-todo-self-learning-path/c/Job-Road-Maps/AI_ML_Developer.md) – Build intelligent systems and predictive models.
-- [Embedded Engineer](https://chatgpt.com/g/g-p-68a4ca08df088191b9d446e5429c57a1-todo-self-learning-path/c/Job-Road-Maps/Embedded_Engineer.md) – Program low-level systems and IoT hardware.
-- [Software Engineer](https://chatgpt.com/g/g-p-68a4ca08df088191b9d446e5429c57a1-todo-self-learning-path/c/Job-Road-Maps/Software_Engineer.md) – Design and deliver applications across platforms.
-- [Game / Graphics Engineer](https://chatgpt.com/g/g-p-68a4ca08df088191b9d446e5429c57a1-todo-self-learning-path/c/Job-Road-Maps/Game_n_Graphics_Engineer.md) – Create real-time 3D and simulation systems.
-- [Cloud Architect](https://chatgpt.com/g/g-p-68a4ca08df088191b9d446e5429c57a1-todo-self-learning-path/c/Job-Road-Maps/Cloud_Architect.md) – Deploy scalable cloud infrastructure and services.
-- [Data Scientist / ML Engineer](https://chatgpt.com/g/g-p-68a4ca08df088191b9d446e5429c57a1-todo-self-learning-path/c/Job-Road-Maps/Data_Scientist_ML.md) – Analyze data and operationalize models.
-
+- [AI / ML Developer](https://github.com/codingUnited/.github/blob/main/profile/Job-Road-Maps/AI_ML_Developer.md) – Build intelligent systems and predictive models.
+- [Embedded Engineer](https://github.com/codingUnited/.github/blob/main/profile/Job-Road-Maps/Embedded_Engineer.md) – Program low-level systems and IoT hardware.
+- [Software Engineer](https://github.com/codingUnited/.github/blob/main/profile/Job-Road-Maps/Software_Engineer.md) – Design and deliver applications across platforms.
+- [Game / Graphics Engineer](https://github.com/codingUnited/.github/blob/main/profile/Job-Road-Maps/Game_n_Graphics_Engineer.md) – Create real-time 3D and simulation systems.
+- [Cloud Architect](https://github.com/codingUnited/.github/blob/main/profile/Job-Road-Maps/Cloud_Architect.md) – Deploy scalable cloud infrastructure and services.
+- [Data Scientist / ML Engineer](https://github.com/codingUnited/.github/blob/main/profile/Job-Road-Maps/Data_Scientist_ML.md) – Analyze data and operationalize models.
+- [Quant Developer](https://github.com/codingUnited/.github/blob/main/profile/Job-Road-Maps/Quant_Developer.md) -
+Build mathematical software models to predict the stock market.
+- [AR / VR Developer](https://github.com/codingUnited/.github/blob/main/profile/Job-Road-Maps/AR_VR_Developer.md) -
+Design virtual worlds.
 ---
 
 ## Get Involved
