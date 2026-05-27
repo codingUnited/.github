@@ -165,7 +165,7 @@ Design virtual worlds.
 
 ## Get Involved
 
-- 💬 Join Our Discord: [discord.gg/SS8Wk2GE](https://discord.com/invite/SS8Wk2GE) 
+- 💬 Join Our Discord: [discord.gg/sQNusBRMVx](https://discord.gg/sQNusBRMVx)
 - 🌐 Visit Our Website: https://codingunited.club
 - 🗂️ Club Hub: https://github.com/codingUnited/coding-united-hub
 - 🧠 Contribute: Help on open issues or propose your own idea in the hub repository.
